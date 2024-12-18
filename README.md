@@ -2,16 +2,14 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-<!-- [![MIT License][license-shield]][license-url] -->
-<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href=https://github.com/akansh12/data-science-Optimal-EV-station-placement">
+<!--   <a href=https://github.com/akansh12/data-science-Optimal-EV-station-placement">
     <img src="figures/saarland-log.png" alt="Logo" width="300" height="115">
-  </a>
+  </a> -->
 
   <h3 align="center">Spatial-Economic Analysis for Optimal EV Charging Station Placement.</h3>
 
