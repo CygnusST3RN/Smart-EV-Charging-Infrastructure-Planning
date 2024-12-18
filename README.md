@@ -14,7 +14,7 @@
   <h3 align="center">Spatial-Economic Analysis for Optimal EV Charging Station Placement.</h3>
 
   <p align="center">
-    Group 7, Data Science 2023
+<!--     Group 7, Data Science 2023 -->
     <br />
     <a href="https://huggingface.co/spaces/Saira20/Optimal-EV-charging-stations">Dashboard</a>
     ·
