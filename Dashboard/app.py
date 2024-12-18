@@ -123,9 +123,10 @@ with col1:
 
     # Adding different Tiles for fun
     folium.TileLayer('openstreetmap').add_to(saarbrucken_map_markers)
-    folium.TileLayer('stamenterrain').add_to(saarbrucken_map_markers)
-    folium.TileLayer('stamentoner').add_to(saarbrucken_map_markers)
-    folium.TileLayer('stamenwatercolor').add_to(saarbrucken_map_markers)
+    folium.TileLayer('stamenterrain', attr="Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under ODbL.").add_to(saarbrucken_map_markers)
+    folium.TileLayer('stamentoner', attr="Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under ODbL.").add_to(saarbrucken_map_markers)
+    folium.TileLayer('stamenwatercolor', attr="Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under ODbL.").add_to(saarbrucken_map_markers)
+
 
     
 
